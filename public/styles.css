@@ -1,0 +1,25 @@
+h1{
+    color: blue;
+}
+#output{
+    margin: 10%;
+    width: 100%;
+    height: 70%;
+    background-color: rgba(0, 255, 149, 0.719);
+}
+#send-message{
+    bottom: 10px;
+    position:fixed;
+    margin: 10%;
+    width: 100%;
+}
+#send{
+    background-color: rgb(116, 11, 185);
+    color: white;
+}
+#handle{
+    border: rgb(104, 255, 104) solid ;
+}
+#message{
+    border: rgb(104, 255, 104) solid;
+}
